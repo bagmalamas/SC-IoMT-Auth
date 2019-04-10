@@ -1,7 +1,7 @@
 # SC-IoMT-Auth
 
 The three Smart Contracts presented here are written in Solidity. 
-They are part of a fine-grain aythorization mechanism based on a private Ethereum Blockchain for managing Internet of Medical Things 
+They are part of a fine-grain authorization mechanism based on a private Ethereum Blockchain for managing Internet of Medical Things 
 devices that involve several users (Patients, Doctors, Hospital's Medical personnel, Manufacturer).
 
 The Registration SC is for registering users and medical devices into the Blockchain (we use a certificate based authentication scheme)
